@@ -1,2 +1,2 @@
 # Tile-Titan
-One of my first projects, a tile based game against an AI made with Java
+One of my first projects, a tile based game against a simple AI script made with Java.
